@@ -1,0 +1,8 @@
+{
+    "api_id": "apiid",
+    "api_hash": "apihash",
+    "group_ids": [-47792161, -46392306],
+    "tracked_usernames": ["eymentakak", "eymentakak"],
+    "forward_bot_username": "@eymen_bot",
+    "enable_forwarding_rule": false
+}

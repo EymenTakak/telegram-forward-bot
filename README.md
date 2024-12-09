@@ -36,7 +36,7 @@ A highly modular and customizable Telegram bot framework designed to monitor mes
 To configure the bot, edit the `config.json` file with your specific settings:
 ```json
 {
-    "api_id": 123456,
+    "api_id": "123456",
     "api_hash": "your_api_hash",
     "group_ids": [-100123456789, -100987654321],
     "tracked_usernames": ["username1", "username2"],
